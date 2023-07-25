@@ -1,3 +1,7 @@
+// Image Size     : 536x240 pixels
+// landscape
+// http://www.rinkydinkelectronics.com/t_imageconverter565.php
+
 const unsigned char gImage_true_color[257280] = { /* 0X00,0X10,0X18,0X02,0XF0,0X00,0X01,0X1B, */
 0X82,0XF0,0X82,0XF0,0X82,0XF0,0X82,0XF0,0X81,0XF0,0X81,0XF0,0X81,0XF0,0X81,0XF0,
 0X81,0XF0,0X81,0XF0,0X61,0XF0,0X61,0XF0,0X61,0XF0,0X61,0XF0,0X81,0XF0,0X81,0XF0,
