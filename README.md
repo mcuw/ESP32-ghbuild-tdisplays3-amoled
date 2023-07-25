@@ -1,4 +1,4 @@
-# ESP32 project template
+# ESP32 T-Display S3 AMOLED project template
 
 ## Description
 
